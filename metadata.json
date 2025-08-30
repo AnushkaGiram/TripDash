@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TripDash - Modern Travel Dashboard",
+  "description": "A modern and playful travel dashboard for trip planning and tracking. The interface includes widgets such as a trip countdown timer, a budget tracker, saved places, itinerary cards, a weather and flight status panel, and a map visualization of destinations.",
+  "requestFramePermissions": []
+}
